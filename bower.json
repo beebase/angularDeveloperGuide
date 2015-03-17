@@ -1,0 +1,16 @@
+{
+  "name": "angularDeveloperGuide",
+  "version": "0.0.0",
+  "authors": [
+    "Maarten Berkenbosch <maarten@beebase.nl>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "/lib",
+    "test",
+    "tests"
+  ]
+}
